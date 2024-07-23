@@ -1,0 +1,14 @@
+.cc-form-wrapper{
+	padding: 25px;
+	background: #eee;
+	border: 2px solid silver;
+}
+.cc-form-wrapper .cc-form-pln-currency{
+	margin-bottom: 10px;
+}
+.cc-form-wrapper .cc-form-eur-currency{
+	margin-bottom: 10px;
+}
+.cc-form-wrapper .cc-form-pln-currency label , .cc-form-wrapper .cc-form-eur-currency label{
+	display: block;
+}
